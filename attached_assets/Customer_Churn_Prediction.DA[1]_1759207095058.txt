@@ -5,7 +5,7 @@ Project Overview
 The Customer Churn Prediction and Sales Dashboard project leverages Data Analytics 
 and Machine Learning to analyze customer behavior, predict churn probability, and 
 visualize sales trends. This system is essential for businesses, e-commerce platforms, and 
-service providers to enhance customer retention and optimize sales strategies. 
+service providers to enhance customer retention and optimize sales strategies.
 
 Key Features 
 1. Data Acquisition & Preprocessing 
@@ -57,4 +57,5 @@ Technology Stack
 Data Processing & ML Models 
  Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch 
  Time Series Analysis using Statsmodels & Prophet 
+
  Customer segmentation with K-Means & DBSCAN
