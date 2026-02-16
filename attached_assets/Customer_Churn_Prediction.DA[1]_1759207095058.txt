@@ -7,7 +7,7 @@ and Machine Learning to analyze customer behavior, predict churn probability, an
 visualize sales trends. This system is essential for businesses, e-commerce platforms, and 
 service providers to enhance customer retention and optimize sales strategies.
 
-Key Features 
+Key Features
 1. Data Acquisition & Preprocessing 
  Collect customer data from CRM systems, sales databases, and user interaction 
 logs. 
@@ -59,3 +59,4 @@ Data Processing & ML Models
  Time Series Analysis using Statsmodels & Prophet 
 
  Customer segmentation with K-Means & DBSCAN
+
