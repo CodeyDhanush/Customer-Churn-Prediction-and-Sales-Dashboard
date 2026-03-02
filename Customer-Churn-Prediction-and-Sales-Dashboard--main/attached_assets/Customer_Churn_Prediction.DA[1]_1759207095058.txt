@@ -1,5 +1,5 @@
 ##Customer Churn Prediction and Sales Dashboard 
-
+  
 Project Overview 
 
 The Customer Churn Prediction and Sales Dashboard project leverages Data Analytics 
@@ -57,4 +57,5 @@ Technology Stack
 Data Processing & ML Models 
  Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch 
  Time Series Analysis using Statsmodels & Prophet 
+
  Customer segmentation with K-Means & DBSCAN
