@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from utils.ml_models import MLModels
+from utils.ml_models import MLModels 
 from utils.visualizations import Visualizations
 
 st.set_page_config(page_title="Churn Prediction", page_icon="🔮", layout="wide")
