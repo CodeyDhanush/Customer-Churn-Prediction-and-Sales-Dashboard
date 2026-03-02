@@ -8,7 +8,7 @@ class DataProcessor:
     def __init__(self):
         self.customers = None
         self.transactions = None
-        self.products = None
+        self.products = None 
         self.processed_features = None
         self.scaler = StandardScaler()
         self.label_encoders = {}
