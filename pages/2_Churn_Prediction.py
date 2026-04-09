@@ -5,7 +5,7 @@ from utils.ml_models import MLModels
 from utils.visualizations import Visualizations
 
 st.set_page_config(page_title="Churn Prediction", page_icon="🔮", layout="wide")
-
+ 
 st.title("🔮 Customer Churn Prediction")
 st.markdown("Train machine learning models to predict customer churn and analyze model performance.")
 
